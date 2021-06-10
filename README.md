@@ -1,4 +1,4 @@
-# Podcast lecteur created with java 
+# Podcast lecteur created with reactjs 
 ![Test Image 4](https://github.com/Abdelazizkb/Broadcastic/blob/main/broadcastic.png)
 # Getting Started with Create React App
 
